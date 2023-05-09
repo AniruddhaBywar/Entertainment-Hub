@@ -13,11 +13,17 @@ Python 3.x
 Tkinter library (usually included with Python installations)
 
 Game Controls
-1> 2048: Use the arrow keys (up, down, left, right) to slide the tiles on the grid.
-2> Snakes: Use the arrow keys (up, down, left, right) to control the snake's movement.
-3> Tic Tac Toe: Click on an empty cell on the grid to place your symbol.
+
+1. 2048: Use the arrow keys (up, down, left, right) to slide the tiles on the grid.
+ 
+2. Snakes: Use the arrow keys (up, down, left, right) to control the snake's movement.
+
+3. Tic Tac Toe: Click on an empty cell on the grid to place your symbol.
 
 Acknowledgements
-The game logic and mechanics for each game are inspired by their respective classic versions.
-The graphical user interface (GUI) is built using the Tkinter library in Python.
-The project is developed as part of a learning exercise in game development and GUI programming.
+
+1. The game logic and mechanics for each game are inspired by their respective classic versions.
+
+2. The graphical user interface (GUI) is built using the Tkinter library in Python.
+
+3. The project is developed as part of a learning exercise in game development and GUI programming.
