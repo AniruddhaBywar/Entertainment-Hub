@@ -9,8 +9,10 @@ Games Included
 3. Tic Tac Toe: The classic game of Tic Tac Toe where two players take turns placing their symbols (X and O) on a 3x3 grid. The game ends when a player manages to get three of their symbols in a row, column, or diagonal.
 
 Prerequisites
-Python 3.x
-Tkinter library (usually included with Python installations)
+
+1. Python 3.x
+
+2. Tkinter library (usually included with Python installations)
 
 Game Controls
 
