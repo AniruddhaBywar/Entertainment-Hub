@@ -42,7 +42,7 @@ class game:
             "roman -underline 0 -overstrike 0"
 
         root.geometry("1000x800+600+150")
-        root.title("The Games")
+        root.title("Entertainment-Hub")
         root.configure(background="#d9d9d9")
         root.configure(highlightbackground="#d9d9d9")
         root.configure(highlightcolor="black")
